@@ -1,6 +1,8 @@
 # React Project  
 
 ## Available Scripts
+in the prject directory you should install node modules with commant 
+### `npm install`
 
 In the project directory, you can run:
 
